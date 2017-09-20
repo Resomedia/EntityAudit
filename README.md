@@ -1,4 +1,5 @@
 This bundle is not maintained. It was replace by EntityHistoryBundle (soon)
+
 # EntityAudit Extension for Doctrine2
 
 This extension for Doctrine 2 is inspired by [Hibernate Envers](http://www.jboss.org/envers) and
